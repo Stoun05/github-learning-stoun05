@@ -7,3 +7,6 @@
 
 ## My next goal
 Learn Git branches and pull requests.
+
+## Branch Practice
+I created my first GitHub branch.
